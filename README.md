@@ -1,3 +1,4 @@
+# Note: this page is under construction
 # 💫 About Me:
 👋  Hi, I’m @mohendy25.  <br>👀  I’m interested in human-computer interaction, AI, and web development. <br>🌱 I’m currently studying Computer Science NYU Shanghai.<br>📫 email: mmh10013@nyu.edu
 
@@ -7,7 +8,7 @@
 # 👨‍💻 Projects
 |Name|Description|Year|Technologies|Repo|Demo|
 |----|----|----|----|----|---|
-|Chat System||2021|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|[Repo]([https://github.com/omargfh/plex-image-splitter](https://github.com/mhendy25/NYU_Chat_System)) 
+|Chat System|Chat & Game server|2021|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|[Repo]([https://github.com/omargfh/plex-image-splitter](https://github.com/mhendy25/NYU_Chat_System)) 
 
 
 # 📊 GitHub Stats:
