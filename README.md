@@ -8,7 +8,7 @@
 # 👨‍💻 Projects
 |Name|Description|Year|Technologies|Repo|Demo|
 |----|----|----|----|----|---|
-|Chat System|Chat & Game Server|2021|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|[Repo]([https://github.com/omargfh/plex-image-splitter](https://github.com/mhendy25/NYU_Chat_System))|[YouTube] (https://www.youtube.com/watch?v=742NADpVGYY)
+|Chat System|Chat & Game Server|2021|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|[Repo]([https://github.com/omargfh/plex-image-splitter](https://github.com/mhendy25/NYU_Chat_System))|[YouTube](https://www.youtube.com/watch?v=742NADpVGYY)
 
 
 # 📊 GitHub Stats:
