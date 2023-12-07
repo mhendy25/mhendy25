@@ -2,7 +2,7 @@
 # 💫 About Me:
 👋  Hi, I’m @mohendy25.  <br>👀  I’m interested in human-computer interaction, AI, and web development. <br>🌱 I’m currently studying Computer Science NYU Shanghai.<br>📫 email: mmh10013@nyu.edu
 
-![](https://komarev.com/ghpvc/?username=mohendy25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/omaribbrahim](https://www.linkedin.com/in/mhendy25/))
+![](https://komarev.com/ghpvc/?username=mohendy25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhendy25/)
 
 
 # 👨‍💻 Projects
