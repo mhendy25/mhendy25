@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  Hi, I’m @mohendy25. <br>🔎 I'm currently doing HCI research under [Professor Margaret Minsky](https://shanghai.nyu.edu/academics/faculty/directory/margaret-minsky) and [Professor Hongyi Wen](https://whongyi.github.io/).<br>👀  I’m interested in Human-Computer Interaction, AI, and Software Development. <br>🌱 I’m currently studying Computer Science NYU.<br>📫 email: mmh10013@nyu.edu
+👋  Hi, I’m @mohendy25. <br>🔎 I'm currently doing HCI research under [Professor Hongyi Wen](https://whongyi.github.io/). I also contributed to [Professor Margaret Minsky](https://shanghai.nyu.edu/academics/faculty/directory/margaret-minsky)'s research.<br>👀  I’m interested in Human-Computer Interaction, AI, and Software Development. <br>🌱 I’m currently studying Computer Science at NYU.<br>📫 email: mmh10013@nyu.edu
 
 ![](https://komarev.com/ghpvc/?username=mohendy25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhendy25/)
 
@@ -21,6 +21,6 @@ Amazona|Cloning Parts of Aamazon's Interface|2023|![Postman](https://img.shields
 
 
 # 📊 GitHub Stats:
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhendy25&show_icons=true&theme=tokyonight)
-
+![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhendy25&theme=dark) 
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=mhendy25&theme=dark)
 
